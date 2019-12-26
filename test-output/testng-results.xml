@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26807" started-at="2019-12-25T20:36:35 CET" finished-at="2019-12-25T20:37:02 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26807" started-at="2019-12-25T20:36:35 CET" finished-at="2019-12-25T20:37:02 CET">
+      <class name="web_page.tests.TestDataChange">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:web_page.tests.TestDataChange@6e6c3152]" name="setDriver" is-config="true" duration-ms="5701" started-at="2019-12-25T20:36:35 CET" finished-at="2019-12-25T20:36:41 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="changeData()[pri:1, instance:web_page.tests.TestDataChange@6e6c3152]" name="changeData" duration-ms="20999" started-at="2019-12-25T20:36:41 CET" finished-at="2019-12-25T20:37:02 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeData -->
+      </class> <!-- web_page.tests.TestDataChange -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
