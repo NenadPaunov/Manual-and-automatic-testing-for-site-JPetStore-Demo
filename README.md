@@ -1,1 +1,1 @@
-# Manual-and-automatic-testing-for-site-JPetStore-Demo
+# Manual-and-automation-testing-for-website-JPetStore-Demo
